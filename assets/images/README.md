@@ -32,7 +32,7 @@ To display your profile picture on the HTML resume:
 
 4. **Update HTML (if needed):**
    - The resume.html file is already configured to look for `assets/images/profile.jpg`
-   - If you use a different filename, update line 371 in resume.html:
+   - If you use a different filename, update line 425 in resume.html:
      ```html
      <img src="assets/images/profile.jpg" ...>
      ```
