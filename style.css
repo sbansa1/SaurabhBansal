@@ -607,3 +607,9 @@ a:focus-visible {
     outline: 2px solid var(--primary-color);
     outline-offset: 2px;
 }
+
+/* Project GitHub link */
+.project-github-link {
+    font-size: 0.8em;
+    margin-left: 10px;
+}
