@@ -160,13 +160,25 @@ Known for translating ambiguous business, clinical, and technical requirements i
 - Process Mapping & Workflow Design
 - Solution Architecture & System Documentation
 
-### Tools & Technologies
-- **Product, Delivery & Collaboration:** Jira, Confluence, Azure DevOps, Microsoft Excel (planning, tracking, forecasting, capacity models), Microsoft Teams, SharePoint, Slack (MS Project exposure in earlier roles)
-- **UX, Design & Requirements Visualization:** Figma (low-fidelity concepts, workflow visualization, design collaboration), MS Visio, Lucidchart, Wireframes, User Flows, Interaction Diagrams, Design Reviews & UX Iteration Support
-- **Architecture, Documentation & Modeling:** UML, BPMN, Process Flows, Use Case, Activity & Data Flow Diagrams, Solution Architecture & Integration Diagrams
-- **Platforms & Cloud:** Microsoft Azure, Distributed & Cloud-Based Environments
-- **Integration, Data & Validation:** REST APIs, Postman (API testing & validation), SQL (querying, joins, validation, reporting support)
-- **Reporting & Analysis:** Excel, Google Sheets
+### Technical Tools
+- Jira, Confluence, Azure DevOps
+- Microsoft Excel, Google Sheets
+- Postman (API testing & validation)
+- SQL (querying, joins, validation, reporting)
+- Microsoft Teams, SharePoint, Slack
+
+### Design & Modeling
+- Figma (workflow visualization, design collaboration)
+- MS Visio, Lucidchart
+- UML, BPMN, Process Flows
+- Wireframes, User Flows, Interaction Diagrams
+- Solution Architecture & Integration Diagrams
+
+### Platforms & Integration
+- Microsoft Azure
+- REST APIs, HL7, FHIR
+- Distributed & Cloud-Based Environments
+- Microservices Architecture
 
 ---
 
