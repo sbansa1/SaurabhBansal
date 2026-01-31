@@ -26,43 +26,65 @@ Known for translating ambiguous business, clinical, and technical requirements i
 ### Technical Project Manager / Software Delivery Lead
 **Venuiti Solutions Inc.** | Jan 2023 – Jul 2025
 
-#### Platform & SaaS Delivery Leadership
-- Led end-to-end delivery of enterprise SaaS and interoperability platforms across healthcare and digital ecosystems, managing $1M–$5M programs across 3–5 concurrent workstreams.
-- Achieved 95%+ milestone adherence and improved release predictability by ~25–30% through disciplined planning, dependency management, and delivery governance.
-- Maintained delivery SLA alignment across engineering and vendor teams, supporting platform uptime targets of 99.9%+ during critical release cycles.
+#### Platform, Product & SaaS Delivery Leadership
+- Led end-to-end delivery of enterprise SaaS platforms, digital products, and interoperability initiatives across regulated healthcare environments, operating at the intersection of product, engineering, UX, integration, and stakeholder governance.
+- Drove delivery across multiple concurrent workstreams spanning platform modernization, API integrations, and vendor ecosystems, improving release predictability by ~25–30% through disciplined planning and dependency management.
+- Maintained delivery SLAs across internal and external teams, supporting 99.9%+ uptime targets during critical release cycles and go-live events.
+- Acted as the primary delivery lead for complex initiatives, aligning executive stakeholders, clinical partners, product owners, engineers, and vendors on scope, priorities, and outcomes.
+- Established delivery governance structures (roadmaps, RAID logs, escalation paths, and reporting cadences) that reduced delivery blockers by ~30% and improved decision-making speed.
 
 #### Enterprise Integrations & Interoperability (Medcan, PrescribeIT, Amplify Care)
-- Directed delivery of complex API and interoperability initiatives across distributed systems, including FHIR-based platforms, enterprise APIs, and multi-vendor integrations.
-- Led integration readiness and sequencing across systems, improving cross-system release stability and reducing integration-related defects by ~30%.
-- Coordinated multi-vendor conformance and validation workflows, increasing successful integration test pass rates and reducing rework cycles.
+- Led delivery of complex, multi-system integration programs involving enterprise platforms, identity services, payment systems, and national interoperability standards.
+- Directed API and interoperability initiatives across distributed systems, including FHIR-based platforms, enterprise REST APIs, authentication/identity workflows, and third-party vendor integrations.
+- Led integration readiness planning and release sequencing across systems, reducing integration-related defects and late-stage rework by ~30%.
+- Coordinated multi-vendor conformance and validation workflows, improving test pass rates and accelerating onboarding of external partners.
+- Translated regulatory, clinical, and business requirements into executable technical workflows, balancing compliance, feasibility, user experience, and delivery timelines.
+- Served as the escalation point for complex cross-system issues, facilitating resolution through structured triage, root-cause analysis, and coordinated remediation plans.
 
-#### PrescribeIT (FHIR R4) – National Interoperability Platform
-- Led delivery of PrescribeIT MVP phases, built on FHIR R4 standards, supporting secure prescription workflows across EMRs and pharmacy systems.
-- Oversaw implementation of updated Implementation Guides (IG Packs), business rules, and FHIR validation logic, including Rev 5.2 updates.
-- Managed delta analysis across workflows, APIs, and conformance rules, reducing ambiguity between regulatory standards and technical implementation.
-- Improved integration triage efficiency by ~30–50% through structured validation workflows and vendor coordination.
+#### PrescribeIT – National e-Prescribing Platform (FHIR R4)
+- Technical Project Manager & Integration Lead for Canada's national e-prescribing platform.
+- Led delivery of PrescribeIT MVP phases, built on FHIR R4, enabling secure prescription workflows across EMRs, pharmacies, and national services.
+- Oversaw implementation of updated Implementation Guides (IG Packs), including Rev 5.2 updates, incorporating new business rules, workflows, and validation logic.
+- Performed delta analysis across workflows, APIs, and conformance rules to identify gaps between evolving regulatory standards and existing implementations.
+- Coordinated multi-vendor testing using a reference implementation and conformance tooling to validate message structure, business rules, and workflow sequencing before production submission.
+- Reduced integration ambiguity and accelerated issue triage by ~30–50% through structured validation workflows, improved documentation, and tighter vendor coordination.
+- Acted as a bridge between clinicians, regulators, product teams, and engineers, ensuring clinical intent and regulatory requirements were accurately reflected in technical implementation.
+- Recognized by stakeholders as instrumental in delivering MVP phases in aggressive timelines, while maintaining platform stability and compliance.
 
-#### Medcan – Digital Platform & Salesforce Integration
-- Led delivery of MyMedcan digital platform modernization, integrating .NET backend services, React frontend, Azure AD B2C authentication, Salesforce workflows, and Moneris payments.
-- Facilitated stakeholder workshops across business, clinical, and technical teams, translating requirements into system workflows and user stories.
-- Designed solution architecture, workflow diagrams, and API validation frameworks, accelerating development alignment and reducing late-stage changes.
-- Contributed to a platform launch recognized by the client as "one of the smoothest launches," with measurable improvements in booking conversion (~35% uplift).
+#### Medcan – MyMedcan Digital Platform Modernization
+- Delivery Lead for the modernization of Medcan's flagship digital patient platform.
+- Led end-to-end delivery of MyMedcan, integrating:
+  - .NET backend services
+  - React-based web applications
+  - Azure AD B2C for identity and authentication
+  - Salesforce workflows exposed via Apex-based APIs
+  - Moneris payment integration
+- Facilitated extensive stakeholder workshops with business leaders, clinicians, operations, and engineering teams to gather requirements and align on future-state workflows.
+- Partnered closely with UI/UX designers, contributing to:
+  - Low-fidelity workflow concepts and whiteboard ideation
+  - High-fidelity designs in Figma
+  - Iterative UX refinements based on user pain points and feedback
+- Translated business and clinical requirements into actionable epics, user stories, and acceptance criteria, ensuring shared understanding across teams.
+- Designed solution architecture, workflow diagrams, integration flows, and API validation frameworks using Lucidchart and Visio.
+- Created hands-on proofs of concept and Postman-based API test suites to unblock engineering teams and validate integration assumptions.
+- Led sprint planning, demos, retrospectives, release coordination, and stakeholder communications throughout delivery.
+- Contributed to a platform launch recognized by Medcan leadership as "one of the smoothest launches to date," exceeding KPIs including a ~35% increase in booking conversions.
 
 #### Amplify Care – Conformance Testing Platform
-- Led delivery of a multi-vendor conformance testing suite enabling healthcare organizations to validate compliance against evolving interoperability standards.
-- Translated regulatory requirements into scalable test cases and validation frameworks, improving vendor onboarding efficiency and compliance visibility.
-- Directed UI/UX workflow redesigns and documentation frameworks, improving usability and adoption across stakeholders.
+- Delivery Lead for a scalable conformance and compliance validation platform.
+- Led delivery of a multi-vendor conformance testing suite enabling healthcare organizations and vendors to validate compliance against evolving provincial and national interoperability standards.
+- Translated complex regulatory requirements into clear, testable conformance rules and validation scenarios, supporting both automated and manual testing.
+- Partnered with stakeholders to design workflows that supported vendor self-testing, review, and certification readiness.
+- Directed iterative UI/UX refinements to improve usability and clarity of test results and reporting outputs.
+- Built comprehensive documentation including solution architecture, workflow diagrams, and operational guidance, improving adoption and long-term maintainability.
+- Helped establish a framework that scaled across vendors and standards, reducing uncertainty and improving compliance visibility.
 
-#### Delivery Governance & Execution
-- Owned scope, timelines, and seven-figure budgets, containing scope change to <10% variance and reducing rework and cost overruns.
-- Built enterprise delivery frameworks including sprint roadmaps, RAID logs, dependency maps, and stakeholder communication cadences.
-- Reduced delivery blockers by ~30% through structured escalation management and cross-team alignment.
-- Led Agile delivery cadences across distributed teams (5–9 resources), ensuring predictable execution across 2–3 week sprint cycles.
-
-#### Documentation & Technical Leadership
-- Produced enterprise-grade solution documentation including system architecture diagrams, process flows, API specifications, and integration workflows.
-- Created project dashboards, burndown/burnup metrics, and capacity models to improve leadership visibility and decision-making.
-- Influenced engineering decisions by reviewing technical specs, identifying risks, and proposing alternative solution approaches.
+#### Delivery Governance, Execution & Leadership
+- Owned scope, timelines, and financial oversight across large-scale delivery initiatives, containing scope change to <10% variance and minimizing rework.
+- Built and maintained enterprise delivery artifacts including sprint roadmaps, dependency maps, RAID logs, capacity plans, and release calendars.
+- Led Agile delivery cadences across distributed teams of 5–9 resources, maintaining predictable execution across 2–3 week sprint cycles.
+- Developed dashboards, burndown/burnup metrics, and reporting views to improve leadership visibility and delivery transparency.
+- Acted as a hands-on delivery leader—reviewing technical specifications, identifying risks, challenging assumptions, and proposing alternative solution approaches when needed.
 
 ### Microservices Team Lead / Technical Delivery Manager
 **InferStat** | 2020 – 2022
@@ -115,24 +137,23 @@ Known for translating ambiguous business, clinical, and technical requirements i
 - End-to-End Software & Platform Delivery
 - SaaS & Enterprise Implementations
 - Multi-Workstream Program Execution
-- $1M–$5M Budget Ownership
 - Scope, Schedule, Risk & Dependency Management
 - Delivery Governance & Escalation Leadership
-- Executive & Stakeholder Communication
+- Client, Executive & Stakeholder Communication
 
 ### Agile & Execution
-- Agile / Scrum / Hybrid Delivery Models
+- Agile, Scrum & Hybrid Delivery Models
 - Sprint Planning, Backlog Management & Forecasting
-- Release Planning & Go-Live Readiness
+- Release Planning, Cutover & Go-Live Readiness
 - RAID Logs, Change Control & Delivery Reporting
 
 ### Systems, Platforms & Integration
 - Platform & API Integration Delivery
 - Distributed Systems & Microservices
 - REST APIs, HL7 & FHIR-based Interoperability
-- Enterprise System Modernization
+- Enterprise System & Platform Modernization
 
-### Business Analysis & Solution Design
+### Business Analysis & Product Delivery
 - Discovery & Requirements Leadership
 - Functional & Technical Solution Design
 - User Stories, Acceptance Criteria & MVP Definition
@@ -140,11 +161,12 @@ Known for translating ambiguous business, clinical, and technical requirements i
 - Solution Architecture & System Documentation
 
 ### Tools & Technologies
-- **Delivery & Collaboration:** JIRA, Confluence, Microsoft Project, Azure DevOps, Teams, SharePoint, Slack
-- **Design & Documentation:** MS Visio, Lucidchart, UML, BPMN, Use Case, Activity & Data Flow Diagrams
-- **Platforms & Cloud:** Microsoft Azure, Distributed Cloud Environments
-- **Integration & Testing:** Postman, API Validation, SQL (basic querying)
-- **Reporting:** Excel, Google Sheets
+- **Product, Delivery & Collaboration:** Jira, Confluence, Azure DevOps, Microsoft Excel (planning, tracking, forecasting, capacity models), Microsoft Teams, SharePoint, Slack (MS Project exposure in earlier roles)
+- **UX, Design & Requirements Visualization:** Figma (low-fidelity concepts, workflow visualization, design collaboration), MS Visio, Lucidchart, Wireframes, User Flows, Interaction Diagrams, Design Reviews & UX Iteration Support
+- **Architecture, Documentation & Modeling:** UML, BPMN, Process Flows, Use Case, Activity & Data Flow Diagrams, Solution Architecture & Integration Diagrams
+- **Platforms & Cloud:** Microsoft Azure, Distributed & Cloud-Based Environments
+- **Integration, Data & Validation:** REST APIs, Postman (API testing & validation), SQL (querying, joins, validation, reporting support)
+- **Reporting & Analysis:** Excel, Google Sheets
 
 ---
 
