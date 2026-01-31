@@ -4,7 +4,7 @@
 
 ---
 
-## 📞 Contact Information
+## Contact Information
 
 - **Email:** [saurabh.ca007@gmail.com](mailto:saurabh.ca007@gmail.com)
 - **Phone:** [905-782-3802](tel:905-782-3802)
@@ -13,7 +13,7 @@
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
 Technical Project Manager and Delivery Leader with 6+ years of experience leading complex SaaS, platform, API, and integration-heavy initiatives across regulated and enterprise environments. Proven track record delivering $1M–$5M programs, managing multi-workstream execution, and driving predictable outcomes across distributed teams.
 
@@ -21,7 +21,7 @@ Known for translating ambiguous business, clinical, and technical requirements i
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 ### Technical Project Manager / Software Delivery Lead
 **Venuiti Solutions Inc.** | Jan 2023 – Jul 2025
@@ -109,7 +109,7 @@ Known for translating ambiguous business, clinical, and technical requirements i
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 ### Delivery & Program Leadership
 - End-to-End Software & Platform Delivery
@@ -148,7 +148,7 @@ Known for translating ambiguous business, clinical, and technical requirements i
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Information Technology**  
 Illinois State University — Normal, IL, USA
@@ -158,14 +158,14 @@ De Montfort University — Leicester, United Kingdom
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - Certified Associate in Project Management (CAPM) — PMI
 - Project Management Professional (PMP) — In Progress
 
 ---
 
-## 🏅 Honors & Awards
+## Honors & Awards
 
 **Outstanding Graduate Teaching Assistant Award**  
 Illinois State University  
