@@ -137,24 +137,23 @@ Known for translating ambiguous business, clinical, and technical requirements i
 - End-to-End Software & Platform Delivery
 - SaaS & Enterprise Implementations
 - Multi-Workstream Program Execution
-- $1M–$5M Budget Ownership
 - Scope, Schedule, Risk & Dependency Management
 - Delivery Governance & Escalation Leadership
-- Executive & Stakeholder Communication
+- Client, Executive & Stakeholder Communication
 
 ### Agile & Execution
-- Agile / Scrum / Hybrid Delivery Models
+- Agile, Scrum & Hybrid Delivery Models
 - Sprint Planning, Backlog Management & Forecasting
-- Release Planning & Go-Live Readiness
+- Release Planning, Cutover & Go-Live Readiness
 - RAID Logs, Change Control & Delivery Reporting
 
 ### Systems, Platforms & Integration
 - Platform & API Integration Delivery
 - Distributed Systems & Microservices
 - REST APIs, HL7 & FHIR-based Interoperability
-- Enterprise System Modernization
+- Enterprise System & Platform Modernization
 
-### Business Analysis & Solution Design
+### Business Analysis & Product Delivery
 - Discovery & Requirements Leadership
 - Functional & Technical Solution Design
 - User Stories, Acceptance Criteria & MVP Definition
@@ -162,11 +161,12 @@ Known for translating ambiguous business, clinical, and technical requirements i
 - Solution Architecture & System Documentation
 
 ### Tools & Technologies
-- **Delivery & Collaboration:** JIRA, Confluence, Microsoft Project, Azure DevOps, Teams, SharePoint, Slack
-- **Design & Documentation:** MS Visio, Lucidchart, UML, BPMN, Use Case, Activity & Data Flow Diagrams
-- **Platforms & Cloud:** Microsoft Azure, Distributed Cloud Environments
-- **Integration & Testing:** Postman, API Validation, SQL (basic querying)
-- **Reporting:** Excel, Google Sheets
+- **Product, Delivery & Collaboration:** Jira, Confluence, Azure DevOps, Microsoft Excel (planning, tracking, forecasting, capacity models), Microsoft Teams, SharePoint, Slack (MS Project exposure in earlier roles)
+- **UX, Design & Requirements Visualization:** Figma (low-fidelity concepts, workflow visualization, design collaboration), MS Visio, Lucidchart, Wireframes, User Flows, Interaction Diagrams, Design Reviews & UX Iteration Support
+- **Architecture, Documentation & Modeling:** UML, BPMN, Process Flows, Use Case, Activity & Data Flow Diagrams, Solution Architecture & Integration Diagrams
+- **Platforms & Cloud:** Microsoft Azure, Distributed & Cloud-Based Environments
+- **Integration, Data & Validation:** REST APIs, Postman (API testing & validation), SQL (querying, joins, validation, reporting support)
+- **Reporting & Analysis:** Excel, Google Sheets
 
 ---
 
