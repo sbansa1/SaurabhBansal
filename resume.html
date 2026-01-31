@@ -42,12 +42,34 @@
             padding: 0;
         }
 
+        /* Navigation */
+        .nav-link {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.15);
+            transition: background 0.3s ease;
+            font-size: 0.9rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .nav-link:hover {
+            background: rgba(255, 255, 255, 0.25);
+        }
+
         /* Header Section */
         .header {
             background: linear-gradient(135deg, var(--primary-color) 0%, #2563eb 100%);
             color: white;
             padding: 2.5rem 2rem;
             text-align: center;
+            position: relative;
         }
 
         .profile-image-wrapper {
@@ -389,6 +411,10 @@
                 page-break-after: avoid;
             }
 
+            .nav-link {
+                display: none !important;
+            }
+
             .section {
                 page-break-inside: avoid;
             }
@@ -420,6 +446,7 @@
     <div class="container">
         <!-- Header Section -->
         <header class="header">
+            <a href="index.html" class="nav-link">← Back to Portfolio</a>
             <div class="profile-image-wrapper">
                 <!-- Profile image - will show placeholder icon if image not found -->
                 <img src="assets/images/profile.jpg" 
